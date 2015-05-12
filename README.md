@@ -1,2 +1,4 @@
 # hello-python
-say to hello to Python
+Say hello to Python
+
+run: python hello.py
