@@ -6,7 +6,7 @@ def loop_me(a):
         print i
 
 def main():
-    loop_me(5)
+    loop_me(20)
 
 if __name__ == '__main__':
     main()
